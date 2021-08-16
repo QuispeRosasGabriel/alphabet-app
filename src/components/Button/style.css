@@ -1,0 +1,12 @@
+.button_default {
+    margin: 4px 2px;
+    background: orange;
+    border: none;
+    border-radius: 3px;
+    padding: 20px 16px;
+    cursor: pointer;
+}
+
+.button_cancel {
+
+}

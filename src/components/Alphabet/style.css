@@ -1,0 +1,13 @@
+.alphabet-container {
+    max-width: 197px;
+    text-align: center;
+    margin: 17rem auto
+}
+
+.alphabet-cancel {
+    display: flex;
+    justify-content: flex-end;
+    margin: 1rem 2px;
+    cursor: pointer;
+
+}
